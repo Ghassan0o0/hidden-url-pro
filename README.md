@@ -14,10 +14,10 @@
 How to use:
 install the tool:
 1:
-git clone 
+git clone https://github.com/Ghassan0o0/hidden-url-pro.git
 
 2:
-cd 
+cd hidden-url-pro
 
 run the file (Hidden-URL-PRO)
 use the command:
